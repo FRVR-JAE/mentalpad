@@ -1,7 +1,7 @@
 {
   "name": "mentalpad",
   "version": "1.0.0",
-  "description": "techNotes MERN Project",
+  "description": "mental notes not to be forgotten",
   "main": "server.js",
   "scripts": {
     "start": "node server",
